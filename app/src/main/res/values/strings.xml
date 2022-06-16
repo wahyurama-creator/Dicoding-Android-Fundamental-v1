@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">GitUser</string>
+    <string name="image_view_user">Image View User</string>
+    <string name="image_view_icon_github">Image View Icon Github</string>
+    <string name="image_view_icon_back">Image View Icon Back</string>
+    <string name="follower">Follower</string>
+    <string name="following">Following</string>
+    <string name="repository">Repository</string>
+    <string name="share_text">Share user %s to another friends :)</string>
+    <string name="iv_share">Image View Share</string>
+</resources>
